@@ -1,0 +1,2 @@
+# 2dgameC
+Using minilibx 
